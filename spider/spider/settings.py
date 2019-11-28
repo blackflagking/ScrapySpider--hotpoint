@@ -92,6 +92,6 @@ ITEM_PIPELINES = {
 
 # mysql数据库
 MYSQL_HOST = '127.0.0.1'
-MYSQL_DBNAME = 'hlwjhot'
-MYSQL_USER = 'user'
-MYSQL_PASSWD = 'sql123'
+MYSQL_DBNAME = '******'
+MYSQL_USER = '******'
+MYSQL_PASSWD = '******'
