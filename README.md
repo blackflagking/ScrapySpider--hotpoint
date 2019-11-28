@@ -79,7 +79,7 @@ scrapy crawl baidu.py
 赶快来关注我的公众号吧，
 ~~~加我有优惠哦~~~  
 
-![我的公众号](./Object--Picture/vxplatform.jpg)
+![我的公众号](./Object--Picture/vxplatform.png)
 
 
 
