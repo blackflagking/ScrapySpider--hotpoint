@@ -77,9 +77,11 @@ scrapy crawl baidu.py
 并经营一些咖啡相关商品，  
 如果您也有喝咖啡的习惯，  
 赶快来关注我的公众号吧，
-~~~加我有优惠哦~~~  
+---加我有优惠哦---
 
-![我的公众号](./Object--Picture/vxplatform.png)
+
+
+![公众号](./Object--Picture/vxplatform.png) 
 
 
 
